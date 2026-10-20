@@ -1,0 +1,2 @@
+# premium-centerboard-001-centerboard-foil-profile-calcu
+Spending hours manually calculating centerboard foil profiles in spreadsheets? Stop guessing and start optimizing with data-driven precision using a system built specifically for foil design.  The Centerboard Foil Profile Calculator transforms complex hydrodynamic calculations into a simple, visual Notion template that saves you 10+ hours per desig
